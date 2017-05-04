@@ -26,4 +26,9 @@ Compile
 npm run compile
 ```
 
+styled-components
+---
+
+npm install --save styled-components
+
 
