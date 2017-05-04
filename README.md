@@ -3,7 +3,14 @@ My Project
 
 Welcome.
 
+Usage
+---
 
+Start the development server with this command:
+
+```
+npm start
+```
 
 Setup
 ----
@@ -11,3 +18,12 @@ Setup
 ```
 npm install
 ```
+
+Compile
+---
+
+```
+npm run compile
+```
+
+
